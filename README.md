@@ -30,3 +30,6 @@ strategy.
 ## Graphical Abstract
 
 ![](Graphical%20abstract.jpg)
+
+# Paper
+Loan A, Leung JW, Cook DP, Ko C, Vanderhyden BC, Wang J, Chan HM. Prenatal low-dose methylmercury exposure causes premature neuronal differentiation and autism-like behaviors in a rodent model. iScience. 2023 Jan 31;26(3):106093. doi: 10.1016/j.isci.2023.106093. PMID: 36843845; PMCID: PMC9947313.
