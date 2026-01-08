@@ -1,3 +1,8 @@
+---
+output: 
+  github_document:
+    toc: false
+--- 
 
 # Prenatal low-dose methylmercury exposure causes premature neuronal differentiation and autism-like behaviors in a rodent model
 
@@ -11,6 +16,6 @@ Aberrant neurodevelopment is a core deficit of autism spectrum disorder (ASD). H
 
 ## Graphical Abstract
 
-![Figure 1: Graphical Abstract](\Graphical abstract.jpg")
+![](Graphical abstract.jpg)
   
   
